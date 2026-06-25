@@ -1,186 +1,150 @@
+# 🚀 RG Studio APK V1.0
 
-🚀 RG Studio Launcher
+<div align="center">
 
-<div align="center"><img src="assets/logo.png" alt="RG Studio Logo" width="180">RG Studio Launcher
+<img src="assets/logo.png" width="150">
 
-🎮 One Launcher, Unlimited Experience
+### Launcher Game UATC IDAS & Tools Gaming Indonesia
 
-Launcher resmi untuk menjalankan UATC IDAS, mengakses update terbaru, mengelola akun, dan terhubung dengan komunitas pengguna dalam satu aplikasi Android yang ringan dan mudah digunakan.
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()
+[![Status](https://img.shields.io/badge/Status-Stable-success.svg)]()
+[![License](https://img.shields.io/badge/License-RG%20Studio-orange.svg)]()
 
-<br>"Version" (https://img.shields.io/badge/version-v1.0-blue?style=for-the-badge)
-"Android" (https://img.shields.io/badge/platform-Android-green?style=for-the-badge)
-"Status" (https://img.shields.io/badge/status-Stable-success?style=for-the-badge)
-"Build" (https://img.shields.io/badge/build-Release-orange?style=for-the-badge)
-
-</div>---
-
-📖 Tentang
-
-RG Studio Launcher adalah aplikasi Android yang dikembangkan oleh RG Studio untuk memberikan pengalaman yang lebih praktis dalam mengakses berbagai layanan dan produk gaming Indonesia.
-
-Dengan satu aplikasi, pengguna dapat:
-
-- 🎮 Menjalankan game UATC IDAS
-- 📥 Mengunduh update terbaru
-- 👤 Mengelola akun pengguna
-- 💬 Bergabung dengan komunitas
-- ⚙️ Mengatur preferensi aplikasi
-
-Aplikasi dirancang dengan fokus pada kecepatan, kemudahan penggunaan, dan stabilitas performa.
+</div>
 
 ---
 
-✨ Fitur Utama
+## 📖 Tentang Aplikasi
 
-Fitur| Deskripsi
-🎮 Launcher Game| Menjalankan UATC IDAS dengan cepat
-📥 Download Center| Download game, patch, dan update terbaru
-👤 Akun Pengguna| Login Google dan sinkronisasi data
-💬 Nimbrung Community| Berinteraksi dengan komunitas pengguna
-🔔 Notifikasi| Informasi update dan pengumuman terbaru
-⚙️ Pengaturan| Pengelolaan aplikasi dan akun
-🔒 Keamanan| Sistem autentikasi dan proteksi data
+**RG Studio APK V1.0** adalah launcher Android yang dirancang untuk mempermudah pengguna dalam mengakses dan menjalankan berbagai game serta tools yang dikembangkan oleh **RG Studio**, termasuk **UATC IDAS**, update terbaru, file pendukung, dan fitur komunitas dalam satu aplikasi.
+
+Aplikasi ini dibuat dengan tampilan sederhana, ringan, dan mudah digunakan untuk semua pengguna Android.
 
 ---
 
-📱 Navigasi Aplikasi
+## ✨ Fitur Utama
 
-🏠 Home
-🎮 Jalankan UATC
-📥 Download
-👤 Akun
-💬 Nimbrung
-⚙️ Pengaturan
-🔒 Privacy Policy
-ℹ️ Tentang Aplikasi
+### 🎮 Launcher Game
+- Menjalankan game UATC IDAS dengan cepat.
+- Akses langsung ke game dan tools terbaru.
+- Navigasi sederhana dan user-friendly.
 
----
+### 📥 Download Center
+- Unduh file game dan update terbaru.
+- Manajemen file yang lebih mudah.
+- Akses resource resmi RG Studio.
 
-🖼️ Screenshot
+### 👤 Manajemen Akun
+- Login menggunakan akun Google.
+- Sinkronisasi data pengguna.
+- Pengelolaan profil akun.
 
-Tambahkan screenshot aplikasi pada folder berikut:
+### 💬 Komunitas
+- Terhubung dengan komunitas pengguna.
+- Mendapatkan informasi dan update terbaru.
+- Dukungan pengguna dan feedback.
 
-assets/
-├── screenshot-home.png
-├── screenshot-download.png
-├── screenshot-account.png
-└── screenshot-settings.png
-
-Contoh:
-
-<p align="center">
-  <img src="assets/screenshot-home.png" width="220">
-  <img src="assets/screenshot-download.png" width="220">
-  <img src="assets/screenshot-account.png" width="220">
-</p>
+### ⚙️ Pengaturan
+- Konfigurasi aplikasi.
+- Pengaturan akun.
+- Pengaturan notifikasi.
 
 ---
 
-📋 Persyaratan Sistem
+## 📱 Tampilan Aplikasi
 
-Komponen| Minimum
-Android| 6.0 Marshmallow
-RAM| 2 GB
-Storage| 100 MB
-Internet| Wajib
-Google Play Services| Disarankan
+### Navigation Drawer
+
+- Home
+- Jalankan UATC
+- Unduhan
+- Akun
+- Nimbrung
+- Pengaturan
+- Privacy Policy
+- Tentang Aplikasi
 
 ---
 
-🚀 Instalasi
+## 📋 Persyaratan Sistem
 
-Metode APK
+| Kebutuhan | Minimum |
+|------------|------------|
+| Android | 6.0 (Marshmallow) |
+| RAM | 2 GB |
+| Storage | 100 MB |
+| Internet | Dibutuhkan |
+
+---
+
+## 🚀 Instalasi
 
 1. Download file APK terbaru.
-2. Aktifkan Install Unknown Apps.
-3. Instal aplikasi RG Studio Launcher.
+2. Aktifkan **Install from Unknown Sources**.
+3. Instal aplikasi RG Studio APK.
 4. Buka aplikasi.
 5. Login menggunakan akun Google.
-6. Mulai menggunakan seluruh fitur yang tersedia.
+6. Nikmati fitur launcher dan game yang tersedia.
 
 ---
 
-🔐 Keamanan
+## 🔒 Keamanan
 
-RG Studio berkomitmen menjaga keamanan data pengguna dengan menerapkan:
+RG Studio berkomitmen menjaga keamanan pengguna dengan:
 
-- Google Authentication
-- Secure Connection (HTTPS)
-- Validasi akses pengguna
-- Perlindungan data akun
-- Pembaruan keamanan berkala
+- Login Google Authentication.
+- Koneksi aman.
+- Tidak menyimpan data sensitif pengguna tanpa izin.
+- Pembaruan keamanan secara berkala.
 
 ---
 
-📝 Changelog v1.0
+## 📝 Changelog V1.0
 
-🎉 Initial Release
-
+### Release Awal
 - ✅ Sistem Login Google
 - ✅ Launcher UATC IDAS
-- ✅ Download Center
-- ✅ Manajemen Akun
+- ✅ Menu Download
+- ✅ Menu Akun
 - ✅ Fitur Nimbrung
 - ✅ Pengaturan Aplikasi
 - ✅ Privacy Policy
 - ✅ Optimasi Performa
-- ✅ Peningkatan Stabilitas
 
 ---
 
-🛠️ Dibangun Dengan
+## 🛠️ Teknologi
 
-Teknologi| Kegunaan
-Android Studio| Development Environment
-Java| Bahasa Pemrograman
-Firebase Authentication| Sistem Login
-Firebase Realtime Database| Penyimpanan Data
-Material Design| Antarmuka Pengguna
-
----
-
-📂 Struktur Proyek
-
-RG-Studio-Launcher/
-│
-├── app/
-├── assets/
-│   ├── logo.png
-│   ├── screenshot-home.png
-│   ├── screenshot-download.png
-│   └── screenshot-account.png
-│
-├── README.md
-└── LICENSE
+- Android Studio
+- Java
+- Firebase Authentication
+- Firebase Realtime Database
+- Material Design
 
 ---
 
-📞 Dukungan
+## 📞 Dukungan
 
-Jika menemukan bug atau memiliki saran pengembangan:
+Jika menemukan bug atau memiliki saran:
 
-- Buat Issue pada repository GitHub
-- Laporkan bug secara detail
-- Sertakan screenshot jika diperlukan
+- Buat Issue pada repository GitHub.
+- Hubungi tim RG Studio.
 
 ---
 
-📄 Lisensi
+## 📄 Lisensi
 
 Copyright © 2025 RG Studio
 
-All Rights Reserved.
-
-Dilarang mendistribusikan ulang, memodifikasi, atau menggunakan aset aplikasi tanpa izin tertulis dari RG Studio.
+Seluruh hak cipta dilindungi. Dilarang mendistribusikan ulang, memodifikasi, atau menggunakan aset aplikasi tanpa izin dari RG Studio.
 
 ---
 
-<div align="center">⭐ Terima Kasih
+<div align="center">
 
-Terima kasih telah menggunakan RG Studio Launcher.
+### ⭐ Terima kasih telah menggunakan RG Studio APK
 
-🎮 One Launcher, Unlimited Experience
-
-Made with ❤️ by RG Studio
+"One Launcher, Unlimited Experience."
 
 </div>
