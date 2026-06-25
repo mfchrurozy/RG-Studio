@@ -1,10 +1,5 @@
 <div align="center">🚀 RG Studio APK V1.0</div>
 
-## 📱 Screenshot
-
-<p align="center">
-  <img src="assets/screenshot-1.jpg" width="300">
-</p>
 
 <div align="center"><img src="assets/logo.png" width="150">RG Studio
 
@@ -15,6 +10,13 @@ Ultimate Launcher for UATC IDAS & Gaming Tools
 "Firebase" (https://img.shields.io/badge/Firebase-Enabled-yellow?style=for-the-badge&logo=firebase)
 "Version" (https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
 "Status" (https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
+
+
+## 📱 Screenshot
+
+<p align="center">
+  <img src="assets/screenshot-1.jpg" width="300">
+</p>
 
 🎮 One Launcher • Unlimited Experience 🎮
 
