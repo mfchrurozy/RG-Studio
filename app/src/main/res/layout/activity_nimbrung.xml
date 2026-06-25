@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_gray"
+    android:orientation="vertical">
+
+    <!-- Toolbar -->
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/primary_blue"
+            app:navigationIcon="@drawable/ic_menu"
+            app:title="Nimbrung"
+            app:titleTextColor="@color/white"
+            app:subtitle="Obrolan Realtime"
+            app:subtitleTextColor="#B3FFFFFF" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <!-- Online Users Info Bar -->
+    <LinearLayout
+        android:id="@+id/onlineBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/primary_light"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <View
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/bg_online_indicator" />
+
+        <TextView
+            android:id="@+id/tvOnlineCount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="0 pengguna online"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvCurrentUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login sebagai: -"
+            android:textColor="#B3FFFFFF"
+            android:textSize="11sp" />
+
+    </LinearLayout>
+
+    <!-- Chat Messages -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvChat"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:padding="8dp"
+        android:overScrollMode="never" />
+
+    <!-- Not Logged In Warning -->
+    <LinearLayout
+        android:id="@+id/loginWarning"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:alpha="0.4"
+            android:src="@drawable/ic_chat"
+            app:tint="@color/text_secondary" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Login untuk bergabung dalam obrolan"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLoginNimbrung"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/primary_blue"
+            android:text="LOGIN SEKARANG"
+            android:textSize="14sp"
+            app:cornerRadius="8dp" />
+
+    </LinearLayout>
+
+    <!-- Message Input Bar -->
+    <LinearLayout
+        android:id="@+id/inputBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:elevation="8dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etMessage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_edittext"
+            android:hint="Tulis pesan..."
+            android:inputType="textMultiLine"
+            android:maxLines="4"
+            android:padding="12dp"
+            android:textSize="14sp" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:src="@drawable/ic_send"
+            app:backgroundTint="@color/primary_blue"
+            app:fabSize="mini"
+            app:tint="@color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>

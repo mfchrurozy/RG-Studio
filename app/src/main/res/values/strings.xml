@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RG Studio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="downloads">Unduhan</string>
+    <string name="account">Akun</string>
+    <string name="nimbrung">Nimbrung</string>
+    <string name="settings">Pengaturan</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="run_uatc">Jalankan UATC</string>
+    <string name="login">LOGIN</string>
+    <string name="register">BUAT AKUN</string>
+    <string name="forgot_password">LUPA SANDI</string>
+    <string name="search_hint">Cari aplikasi...</string>
+</resources>

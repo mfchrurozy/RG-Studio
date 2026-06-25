@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+      <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application 
+        android:allowBackup="true" 
+        android:icon="@mipmap/ic_launcher" 
+        android:roundIcon="@mipmap/ic_launcher" 
+        android:label="@string/app_name" 
+        android:supportsRtl="true" 
+        android:theme="@style/Theme.RGStudio">
+        <activity
+            android:name="MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.RGStudio">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="LoginActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="RegisterActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="ForgotPasswordActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="AdminDashboardActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="UserDashboardActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="DownloadsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="DetailApkActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="AddApkActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="EditApkActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="ProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="NimbrungActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+        <activity
+            android:name="SettingsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RGStudio" />
+
+    </application>
+</manifest>

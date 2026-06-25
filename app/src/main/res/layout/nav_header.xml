@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="@drawable/nav_header_bg"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/ivNavAvatar"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/logo_placeholder"
+        android:contentDescription="Avatar" />
+
+    <TextView
+        android:id="@+id/tvNavName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="RG Studio"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvNavEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user@rgstudio.com"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+
+</LinearLayout>
