@@ -5,11 +5,11 @@
 
 🎮 Launcher UATC IDAS • Gaming Tools • Community Platform
 
-"Version" (https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-"Android" (https://img.shields.io/badge/Android-6.0+-green?style=for-the-badge)
-"Java" (https://img.shields.io/badge/Java-Powered-orange?style=for-the-badge)
-"Firebase" (https://img.shields.io/badge/Firebase-Integrated-yellow?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](#)
+[![Android](https://img.shields.io/badge/Android-6.0+-green?style=for-the-badge)](#)
+[![Java](https://img.shields.io/badge/Java-Powered-orange?style=for-the-badge)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-Integrated-yellow?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)](#)
 
 ⚡ One Launcher • One Community • Unlimited Possibilities ⚡
 
