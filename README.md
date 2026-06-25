@@ -1,76 +1,65 @@
+
 🚀 RG Studio APK V1.0
 
-<div align="center"><img src="assets/logo.png" width="150">🎮 Launcher Game UATC IDAS • Tools Gaming • Community Hub
+<div align="center"><img src="assets/logo.png" width="180">RG Studio
+
+🎮 Launcher UATC IDAS • Gaming Tools • Community Platform
 
 "Version" (https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-"Platform" (https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
+"Android" (https://img.shields.io/badge/Android-6.0+-green?style=for-the-badge)
+"Java" (https://img.shields.io/badge/Java-Powered-orange?style=for-the-badge)
+"Firebase" (https://img.shields.io/badge/Firebase-Integrated-yellow?style=for-the-badge)
 "Status" (https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
-"Java" (https://img.shields.io/badge/Java-Android-orange?style=for-the-badge)
-"Firebase" (https://img.shields.io/badge/Firebase-Enabled-yellow?style=for-the-badge)
 
-One Launcher • One Community • Unlimited Experience
+⚡ One Launcher • One Community • Unlimited Possibilities ⚡
 
 </div>---
 
-📖 Tentang Aplikasi
+📖 About RG Studio APK
 
-RG Studio APK V1.0 adalah launcher Android yang dikembangkan untuk memberikan akses cepat dan mudah ke berbagai game, tools, resource, serta layanan komunitas yang dikelola oleh RG Studio.
+RG Studio APK adalah launcher Android yang dikembangkan untuk memberikan pengalaman terbaik dalam mengakses game, tools, resource, dan layanan komunitas dalam satu aplikasi yang cepat, ringan, dan mudah digunakan.
 
-Melalui satu aplikasi, pengguna dapat menjalankan UATC IDAS, mengunduh update terbaru, mengelola akun, bergabung dengan komunitas, serta mendapatkan informasi terbaru langsung dari developer.
+Launcher ini menjadi pusat akses utama bagi pengguna untuk menjalankan UATC IDAS, mengunduh update terbaru, mengelola akun, serta terhubung dengan komunitas pengguna dan developer.
 
-Dirancang dengan tampilan modern, performa ringan, dan navigasi yang sederhana sehingga nyaman digunakan oleh semua pengguna Android.
+Dengan desain modern dan performa yang optimal, RG Studio APK hadir sebagai solusi praktis bagi para gamer dan pengguna tools gaming Indonesia.
+
+---
+
+✨ Fitur Unggulan
+
+🎮 Launcher UATC IDAS
+
+Menjalankan game UATC IDAS dengan cepat, aman, dan efisien.
+
+📥 Download Center
+
+Akses update, patch, resource, dan file pendukung terbaru secara langsung.
+
+👤 Account Management
+
+Login menggunakan akun Google dan mengelola data pengguna dengan mudah.
+
+💬 Nimbrung Community
+
+Terhubung dengan komunitas pengguna untuk berdiskusi, berbagi informasi, dan mendapatkan pengumuman terbaru.
+
+⚙️ Smart Settings
+
+Pengaturan aplikasi yang fleksibel dan mudah dikonfigurasi.
+
+🔒 Security System
+
+Dilengkapi sistem autentikasi Google dan keamanan data pengguna.
 
 ---
 
 📱 Tampilan Aplikasi
 
-<div align="center">
-<img src="assets/screenshot-1.jpg" width="300">
-<br>
-<i>Tampilan Navigation Drawer RG Studio APK V1.0</i>
+<div align="center"><img src="assets/screenshot-1.jpg" width="300">Navigation Drawer RG Studio APK V1.0
+
 </div>---
 
-✨ Fitur Utama
-
-🎮 Launcher Game
-
-- Menjalankan UATC IDAS secara cepat dan praktis.
-- Akses langsung ke game dan resource terbaru.
-- Sistem launcher yang ringan dan stabil.
-
-📥 Download Center
-
-- Download update terbaru.
-- Resource dan file pendukung.
-- Manajemen unduhan yang mudah.
-
-👤 Manajemen Akun
-
-- Login menggunakan Google Account.
-- Sinkronisasi data pengguna.
-- Pengelolaan profil akun.
-
-💬 Nimbrung Community
-
-- Terhubung dengan komunitas pengguna.
-- Berbagi informasi dan diskusi.
-- Mendapatkan pengumuman terbaru.
-
-⚙️ Pengaturan
-
-- Pengaturan aplikasi.
-- Konfigurasi akun.
-- Personalisasi penggunaan.
-
-🔒 Keamanan
-
-- Google Authentication.
-- Koneksi aman dan terenkripsi.
-- Perlindungan data pengguna.
-
----
-
-📋 Menu Navigasi
+📂 Menu Navigasi
 
 🏠 Home
 ▶️ Jalankan UATC
@@ -85,22 +74,22 @@ Dirancang dengan tampilan modern, performa ringan, dan navigasi yang sederhana s
 
 📋 Persyaratan Sistem
 
-Kebutuhan| Minimum
-Android| 6.0 (Marshmallow)
+Komponen| Minimum
+Android| 6.0+
 RAM| 2 GB
-Storage| 100 MB
-Internet| Dibutuhkan
+Penyimpanan| 100 MB
+Internet| Diperlukan
 
 ---
 
-🚀 Instalasi
+🚀 Cara Instalasi
 
 1. Download APK versi terbaru.
 2. Aktifkan Install from Unknown Sources.
 3. Instal aplikasi RG Studio APK.
 4. Buka aplikasi.
 5. Login menggunakan akun Google.
-6. Nikmati seluruh fitur yang tersedia.
+6. Mulai menikmati seluruh fitur yang tersedia.
 
 ---
 
@@ -108,19 +97,19 @@ Internet| Dibutuhkan
 
 Initial Release
 
+- ✅ Google Authentication
 - ✅ Launcher UATC IDAS
-- ✅ Sistem Login Google
 - ✅ Download Center
-- ✅ User Account Management
+- ✅ Account Management
 - ✅ Nimbrung Community
-- ✅ Pengaturan Aplikasi
+- ✅ Application Settings
 - ✅ Privacy Policy
 - ✅ Firebase Integration
-- ✅ Optimasi Performa
+- ✅ Performance Optimization
 
 ---
 
-🛠️ Teknologi
+🛠️ Built With
 
 - Android Studio
 - Java
@@ -131,37 +120,38 @@ Initial Release
 
 ---
 
-🎯 Roadmap
+🔒 Security & Privacy
 
-- Dark Mode
-- Auto Update System
-- Push Notification
-- Cloud Synchronization
-- Multi Game Launcher
-- Enhanced Community Features
+RG Studio berkomitmen menjaga keamanan dan privasi pengguna dengan:
 
----
-
-📞 Dukungan
-
-Jika menemukan bug, error, atau memiliki saran pengembangan:
-
-- Buat Issue pada repository GitHub.
-- Hubungi tim RG Studio.
+- Google Sign-In Authentication
+- Secure Connection
+- Data Protection
+- Regular Security Updates
 
 ---
 
-📄 Lisensi
+📞 Support
+
+Menemukan bug atau memiliki saran pengembangan?
+
+📌 Buat Issue pada repository GitHub ini.
+
+📌 Hubungi tim RG Studio melalui kanal resmi yang tersedia.
+
+---
+
+📄 License
 
 Copyright © 2025 RG Studio
 
 All Rights Reserved.
 
-Dilarang mendistribusikan, memodifikasi, atau menggunakan aset aplikasi tanpa izin resmi dari RG Studio.
+Penggunaan, distribusi, maupun modifikasi aplikasi tanpa izin resmi dari RG Studio tidak diperkenankan.
 
 ---
 
-<div align="center">⭐ Terima Kasih Telah Menggunakan RG Studio APK
+<div align="center">⭐ Thank You For Using RG Studio APK
 
 "Build Better • Play Faster • Grow Together"
 
