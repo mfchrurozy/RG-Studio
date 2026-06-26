@@ -71,7 +71,7 @@ Aplikasi ini dibuat dengan tampilan sederhana, ringan, dan mudah digunakan untuk
 
 | Kebutuhan | Minimum |
 |------------|------------|
-| Android | 6.0 (Marshmallow) |
+| Android | 8.1 (Oreo) |
 | RAM | 2 GB |
 | Storage | 100 MB |
 | Internet | Dibutuhkan |
@@ -116,7 +116,7 @@ RG Studio berkomitmen menjaga keamanan pengguna dengan:
 
 ## 🛠️ Teknologi
 
-- Android Studio
+- Android IDE
 - Java
 - Firebase Authentication
 - Firebase Realtime Database
@@ -135,7 +135,7 @@ Jika menemukan bug atau memiliki saran:
 
 ## 📄 Lisensi
 
-Copyright © 2025 RG Studio
+Copyright © 2026 RG Studio
 
 Seluruh hak cipta dilindungi. Dilarang mendistribusikan ulang, memodifikasi, atau menggunakan aset aplikasi tanpa izin dari RG Studio.
 
