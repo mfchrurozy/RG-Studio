@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="logo.png" width="150">
+<img src="20260626_185939.png" width="150">
 
 ### Launcher Game UATC IDAS & Tools Gaming Indonesia
 
