@@ -1,0 +1,9 @@
+RG Studio License
+
+Hak Cipta (c) 2025 RG Studio – Airlines Manager Finder
+
+Dengan ini diberikan izin, secara gratis, kepada siapa pun yang memperoleh salinan perangkat lunak ini dan berkas dokumentasinya (selanjutnya disebut “Perangkat Lunak”), untuk menggunakan Perangkat Lunak tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, serta memberikan izin kepada orang-orang yang menerima Perangkat Lunak untuk melakukan hal-hal tersebut, dengan ketentuan sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pernyataan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APAPUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN NONPELANGGARAN. DALAM HAL APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM KONTRAK, PERBUATAN MELAWAN HUKUM, ATAU LAINNYA, YANG TIMBUL DARI, ATAU BERHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAANNYA.
