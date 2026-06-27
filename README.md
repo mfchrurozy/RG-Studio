@@ -71,7 +71,7 @@ Aplikasi ini dibuat dengan tampilan sederhana, ringan, dan mudah digunakan untuk
 
 | Kebutuhan | Minimum |
 |------------|------------|
-| Android | 8.1 (Oreo) |
+| Android | 7.1 (Nougat) |
 | RAM | 2 GB |
 | Storage | 100 MB |
 | Internet | Dibutuhkan |
