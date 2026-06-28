@@ -1,62 +1,61 @@
-🚀 RG Studio APK V1.0
+# 🚀 RG Studio APK V1.0
 
-<div align="center"><img src="20260626_185939.png" width="150">Launcher Game UATC IDAS & Tools Gaming Indonesia
+<div align="center">
 
-""Version" (https://img.shields.io/badge/Version-1.0-blue.svg)"
-""Release" (https://img.shields.io/badge/Release-28--06--2026-red.svg)"
-""Platform" (https://img.shields.io/badge/Platform-Android-green.svg)"
-""Status" (https://img.shields.io/badge/Status-Stable-success.svg)"
-""License" (https://img.shields.io/badge/License-RG%20Studio-orange.svg)"
+<img src="20260626_185939.png" width="150">
 
-📅 Tanggal Rilis: 28-06-2026
+### Launcher Game UATC IDAS & Tools Gaming Indonesia
 
-</div>---
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()
+[![Status](https://img.shields.io/badge/Status-Stable-success.svg)]()
+[![License](https://img.shields.io/badge/License-RG%20Studio-orange.svg)]()
 
-📖 Tentang Aplikasi
-
-RG Studio APK V1.0 adalah launcher Android yang dirancang untuk mempermudah pengguna dalam mengakses dan menjalankan berbagai game serta tools yang dikembangkan oleh RG Studio, termasuk UATC IDAS, update terbaru, file pendukung, dan fitur komunitas dalam satu aplikasi.
-
-Aplikasi ini dibuat dengan tampilan sederhana, ringan, dan mudah digunakan untuk semua pengguna Android.
+</div>
 
 ---
 
-✨ Fitur Utama
+## 📖 Tentang Aplikasi
 
-🎮 Launcher Game
+**RG Studio APK V1.0** adalah launcher Android yang dirancang untuk mempermudah pengguna dalam mengakses dan menjalankan berbagai game serta tools yang dikembangkan oleh **RG Studio**, termasuk **UATC IDAS**, update terbaru, file pendukung, dan fitur komunitas dalam satu aplikasi.
 
+Aplikasi ini dibuat dengan tampilan sederhana, ringan, dan mudah digunakan untuk semua pengguna Android.
+
+📅 Tanggal Rilis: 28-06-2026
+---
+
+## ✨ Fitur Utama
+
+### 🎮 Launcher Game
 - Menjalankan game UATC IDAS dengan cepat.
 - Akses langsung ke game dan tools terbaru.
 - Navigasi sederhana dan user-friendly.
 
-📥 Download Center
-
+### 📥 Download Center
 - Unduh file game dan update terbaru.
 - Manajemen file yang lebih mudah.
 - Akses resource resmi RG Studio.
 
-👤 Manajemen Akun
-
+### 👤 Manajemen Akun
 - Login menggunakan akun Google.
 - Sinkronisasi data pengguna.
 - Pengelolaan profil akun.
 
-💬 Komunitas
-
+### 💬 Komunitas
 - Terhubung dengan komunitas pengguna.
 - Mendapatkan informasi dan update terbaru.
 - Dukungan pengguna dan feedback.
 
-⚙️ Pengaturan
-
+### ⚙️ Pengaturan
 - Konfigurasi aplikasi.
 - Pengaturan akun.
 - Pengaturan notifikasi.
 
 ---
 
-📱 Tampilan Aplikasi
+## 📱 Tampilan Aplikasi
 
-Navigation Drawer
+### Navigation Drawer
 
 - Home
 - Jalankan UATC
@@ -69,20 +68,21 @@ Navigation Drawer
 
 ---
 
-📋 Persyaratan Sistem
+## 📋 Persyaratan Sistem
 
-Kebutuhan| Minimum
-Android| 7.1 (Nougat)
-RAM| 2 GB
-Storage| 100 MB
-Internet| Dibutuhkan
+| Kebutuhan | Minimum |
+|------------|------------|
+| Android | 7.1 (Nougat) |
+| RAM | 2 GB |
+| Storage | 100 MB |
+| Internet | Dibutuhkan |
 
 ---
 
-🚀 Instalasi
+## 🚀 Instalasi
 
 1. Download file APK terbaru.
-2. Aktifkan Install from Unknown Sources.
+2. Aktifkan **Install from Unknown Sources**.
 3. Instal aplikasi RG Studio APK.
 4. Buka aplikasi.
 5. Login menggunakan akun Google.
@@ -90,7 +90,7 @@ Internet| Dibutuhkan
 
 ---
 
-🔒 Keamanan
+## 🔒 Keamanan
 
 RG Studio berkomitmen menjaga keamanan pengguna dengan:
 
@@ -101,12 +101,9 @@ RG Studio berkomitmen menjaga keamanan pengguna dengan:
 
 ---
 
-📝 Changelog V1.0
+## 📝 Changelog V1.0
 
-📅 Tanggal Rilis: 28-06-2026
-
-Release Awal
-
+### Release Awal
 - ✅ Sistem Login Google
 - ✅ Launcher UATC IDAS
 - ✅ Menu Download
@@ -118,7 +115,7 @@ Release Awal
 
 ---
 
-🛠️ Teknologi
+## 🛠️ Teknologi
 
 - Android IDE
 - Java
@@ -128,7 +125,7 @@ Release Awal
 
 ---
 
-📞 Dukungan
+## 📞 Dukungan
 
 Jika menemukan bug atau memiliki saran:
 
@@ -137,7 +134,7 @@ Jika menemukan bug atau memiliki saran:
 
 ---
 
-📄 Lisensi
+## 📄 Lisensi
 
 Copyright © 2026 RG Studio
 
@@ -145,9 +142,9 @@ Seluruh hak cipta dilindungi. Dilarang mendistribusikan ulang, memodifikasi, ata
 
 ---
 
-<div align="center">⭐ Terima kasih telah menggunakan RG Studio APK
+<div align="center">
 
-📅 Rilis Perdana: 28-06-2026
+### ⭐ Terima kasih telah menggunakan RG Studio APK
 
 "One Launcher, Unlimited Experience."
 
