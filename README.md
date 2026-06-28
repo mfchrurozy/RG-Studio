@@ -1,6 +1,4 @@
-🚀 RG Studio APK V1.0
-
-                                    <div align="center">
+<div align="center">
 
 <img src="20260626_185939.png" alt="RG Studio Logo" width="150">
 
