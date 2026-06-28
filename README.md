@@ -1,6 +1,14 @@
 🚀 RG Studio APK V1.0
 
-                                    <div align="center"><img src="20260626_185939.png" width="150" alt="RG Studio Logo">Launcher Game UATC IDAS & Tools Gaming Indonesia
+                                    <div align="center">
+
+<img src="20260626_185939.png" alt="RG Studio Logo" width="150">
+
+# 🚀 RG Studio APK V1.0
+
+### Launcher Game UATC IDAS & Tools Gaming Indonesia
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
