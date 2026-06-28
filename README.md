@@ -2,11 +2,13 @@
 
 <div align="center"><img src="20260626_185939.png" width="150" alt="RG Studio Logo">Launcher Game UATC IDAS & Tools Gaming Indonesia
 
-"Version" (https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-"Release" (https://img.shields.io/badge/Release-28--06--2026-red?style=for-the-badge)
-"Platform" (https://img.shields.io/badge/Android-7.1%2B-green?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
-"License" (https://img.shields.io/badge/License-RG%20Studio-orange?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Release-28--06--2026-red?style=for-the-badge" alt="Release">
+  <img src="https://img.shields.io/badge/Platform-Android%207.1%2B-green?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/License-RG%20Studio-orange?style=for-the-badge" alt="License">
+</p>
 
 📅 Tanggal Rilis
 
