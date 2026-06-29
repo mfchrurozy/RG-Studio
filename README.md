@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Release-28--06--2026-red?style=for-the-badge" alt="Release">
   <img src="https://img.shields.io/badge/Platform-Android%207.1%2B-green?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Realease-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-RG%20Studio-orange?style=for-the-badge" alt="License">
 </p>
 
