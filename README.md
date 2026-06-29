@@ -30,7 +30,6 @@ RG Studio APK V1.0 adalah launcher Android yang dirancang untuk mempermudah peng
 
 Melalui aplikasi ini, pengguna dapat menjalankan UATC IDAS, mengunduh pembaruan terbaru, mengakses berbagai tools, serta bergabung dengan komunitas pengguna dengan antarmuka yang ringan, modern, dan mudah digunakan.
 
----
 
 ✨ Fitur Utama
 
@@ -100,7 +99,6 @@ Internet| Wajib
 5. Login menggunakan akun Google.
 6. Nikmati seluruh fitur launcher.
 
----
 
 🔒 Keamanan
 
@@ -111,7 +109,6 @@ RG Studio berkomitmen menjaga keamanan pengguna dengan menyediakan:
 - ✅ Perlindungan Data Pengguna
 - ✅ Update Keamanan Berkala
 
----
 
 📝 Changelog V1.0
 
@@ -128,7 +125,6 @@ RG Studio berkomitmen menjaga keamanan pengguna dengan menyediakan:
 - ✅ Privacy Policy
 - ✅ Optimasi Performa
 
----
 
 🛠️ Teknologi
 
@@ -138,7 +134,7 @@ RG Studio berkomitmen menjaga keamanan pengguna dengan menyediakan:
 - Firebase Realtime Database
 - Material Design
 
----
+-
 
 📞 Dukungan
 
@@ -147,7 +143,6 @@ Apabila menemukan bug atau memiliki saran:
 - Buat Issue pada repository GitHub.
 - Hubungi tim RG Studio.
 
----
 
 📄 Lisensi
 
@@ -157,7 +152,6 @@ Seluruh hak cipta dilindungi.
 
 Dilarang mendistribusikan ulang, memodifikasi, atau menggunakan aset aplikasi tanpa izin tertulis dari RG Studio.
 
----
 
 <div align="center">⭐ Terima Kasih Telah Menggunakan RG Studio APK
 
